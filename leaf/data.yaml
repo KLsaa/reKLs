@@ -1,0 +1,5 @@
+names:
+- leaf
+nc: 1
+train: leaf/train
+val: leaf/valid
