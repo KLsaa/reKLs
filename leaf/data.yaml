@@ -1,5 +1,5 @@
 names:
 - leaf
 nc: 1
-train: /content/leaf/train
-val: /content/leaf/valid
+train: /content/yolov5/leaf/train
+val: /content/yolov5/leaf/valid
